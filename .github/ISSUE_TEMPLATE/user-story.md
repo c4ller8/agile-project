@@ -8,7 +8,9 @@ assignees: ''
 ---
 
 as a **role** i can **capability** so that **received benefit**
-## Acceptance Criteria Tasks
-**I know that I am done when:**  
-- [ ] 1.
-- [ ] 2.
+## Acceptance Criteria
+1.
+2.
+## Tasks
+- [ ] 
+- [ ]
